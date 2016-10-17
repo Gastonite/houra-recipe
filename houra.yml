@@ -1,0 +1,6 @@
+id: recipe
+steps:
+  - ./path/to/my-plugin
+
+structure:
+  plugins/path: plugins
